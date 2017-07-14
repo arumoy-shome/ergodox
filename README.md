@@ -20,3 +20,5 @@ This is my current Ergodox Ez [layout](layout.pdf).
 
 * [Ergodox Ez keyboard](http://ergodox-ez.com/)
 * [Graphical configurator](http://configure.ergodox-ez.com/keyboard_layouts/new)
+* If you wish to use the graphical configurator, you can grab a clone of my
+  layout from [here](http://configure.ergodox-ez.com/keyboard_layouts/qdrvmb)

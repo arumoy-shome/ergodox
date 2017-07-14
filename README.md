@@ -22,3 +22,7 @@ This is my current Ergodox Ez [layout](layout.pdf).
 * [Graphical configurator](http://configure.ergodox-ez.com/keyboard_layouts/new)
 * If you wish to use the graphical configurator, you can grab a clone of my
   layout from [here](http://configure.ergodox-ez.com/keyboard_layouts/qdrvmb)
+
+## Credits
+* [Ergodox Ez Default layout](http://configure.ergodox-ez.com/keyboard_layouts/new)
+* [Xavier Noria's](https://youtu.be/SiOILU6HdbA) layout for Ruby

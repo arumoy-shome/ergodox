@@ -7,8 +7,6 @@ This is my current Ergodox Ez [layout](layout.pdf).
 * symmetry is favoured, allows you to get familiar with the layout quickly
 * keys on the edges of the keyboard are avoided
 * allows you to stay really close to the home row
-* use of dual function keys to map modifiers and layer toggle buttons on/very
-  close to the home row (check layer 0)
 * minimal hand stretching and movement required
 * use of layers for navigation, numbers and symbols
 * navigation follow vim key bindings (checkout layers 2 and 4) i.e `h, j, k, l`
